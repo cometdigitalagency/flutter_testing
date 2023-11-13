@@ -1,6 +1,6 @@
 # flutter_testing
 
-This is s starter project for flutter testing example
+This is a finished project for flutter testing example
 
 
 ## Installation
